@@ -14,9 +14,10 @@
         "litecms/block": "~4.0",
         "litecms/contact": "~4.0",
         "litecms/page": "~4.0",
-        "litepie/task": "~3.0",
         "litepie/calendar": "~3.0",
-        "litepie/message": "~3.0"
+        "litepie/message": "~3.0",
+        "litepie/task": "~3.0",
+        "predis/predis": "1.1.*"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
